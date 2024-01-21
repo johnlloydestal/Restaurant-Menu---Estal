@@ -1,2 +1,2 @@
-# Restaurant-Menu---Estal
+# Restaurant-Menu-Estal
 RESTAURANT MENU
